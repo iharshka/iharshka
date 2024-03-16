@@ -5,7 +5,7 @@
 
 # Hi there 👋
 ## I'm Harsh Gautam
-#### Second-year Engineering Student at NIT-Bhopal
+#### Pre-final year Engineering Student at NIT-Bhopal
 🔭 I’m currently working on projects<br>
 👯 I’m always open to collaborate <br>
 🌱 I’m learning Data Structures & Algorithms in C++<br>
