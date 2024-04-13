@@ -4,7 +4,7 @@
 
 <p align="left">I'm Harsh Gautam, a Developer, a Problem Solver, an Entrepreneur & a junior at MANIT-Bhopal.</p>
 
-<p align="left">👨🏻‍💻 I'm building projects for fun, testing what I can do with thoughts & tech stacks, check out my repositories.<br>🎯 Goals: To be one of the finest developers. Solve problems that help millions (if not billions). That way, build a massive product one day.<br>💬 Ask me about Tech, Products, Startups & Problem Solving.<br>🚀 I’m happy to collaborate, chat & meet.<br>📫 Reach out to me: <a href="mailto:iharshka@gmail.com">iharshka@gmail.com</a></p>
+<p align="left">👨🏻‍💻 I'm building projects for fun, testing what I can do with thoughts & tech stacks, check out my repositories.<br>🎯 To be one of the finest developers. Solve problems that help millions (if not billions). That way, build a massive product one day.<br>💬 Ask me about Tech, Products, Startups & Problem Solving.<br>🚀 I’m happy to collaborate, chat & meet.<br>📫 Reach out to me: <a href="mailto:iharshka@gmail.com">iharshka@gmail.com</a></p>
 
 ###
 
