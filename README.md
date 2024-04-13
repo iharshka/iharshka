@@ -4,7 +4,7 @@
 
 <p align="left">I'm Harsh Gautam, a Developer, a Problem Solver, an Entrepreneur & a junior at MANIT-Bhopal.</p>
 
-<p align="left">📚 I'm working on projects to play with tech stacks, check out my repositories<br>🎯 Goals: To be one of the finest developers. Build a massive product one day.<br>💬 Ask me about Tech, Products & Problem Solving<br>👯 I’m open to chats & meetings<br>📫 Reach out to me: iharshka@gmail.com</p>
+<p align="left">👨🏻‍💻 I'm building projects for fun, testing what I can do with thoughts & tech stacks, check out my repositories.<br>🎯 Goals: To be one of the finest developers. Solve problems that help millions (if not billions). That way, build a massive product one day.<br>💬 Ask me about Tech, Products, Startups & Problem Solving.<br>🚀 I’m happy to collaborate, chat & meet.<br>📫 Reach out to me: <a href="mailto:iharshka@gmail.com">iharshka@gmail.com</a></p>
 
 ###
 
@@ -28,6 +28,8 @@
   <a href="https://react.dev/" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /></a>
   <img width="12" />
  <a href="https://tailwindcss.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwindcss logo"  /></a>
+  <img width="12" />
+ <a href="https://chartjs.org/" target="blank"><img src="https://www.chartjs.org/media/logo-title.svg" height="40" alt="chartjs logo"  /></a>
   <img width="12" />
   <a href="https://www.typescriptlang.org/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  /></a>
   <img width="12" />
@@ -62,11 +64,15 @@
 
 ###
 
+<h2 align="left">Contributions:</h2>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iharshka&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iharshka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=iharshka&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iharshka&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=iharshka&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=falsee&order=1" height="145" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=iharshka&locale=en&mode=daily&theme=default&hide_border=falsee&border_radius=5&order=3" height="145" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iharshka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=falsee&order=2" height="145" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iharshka&radius=16&theme=github-light&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -74,6 +80,16 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/iharshka/count.svg?"  />
 </div>
+
+###
+
+<div align="center">
+  <h3>“make mistakes of ambition and not mistakes of sloth.” — machiavelli</h3>
+</div>
+
+###
+
+<h2 align="left">Find me on:</h2>
 
 ###
 
