@@ -2,9 +2,10 @@
 
 ###
 
-<p align="left">I'm Harsh Gautam, a Developer, a Problem Solver, an Entrepreneur & a junior at MANIT-Bhopal.</p>
+<p align="left">I'm Harsh, a senior at MANIT Bhopal. I'm a Developer, a Problem Solver, and an Entrepreneur.</p>
 
-<p align="left">👨🏻‍💻 I'm building projects for fun, testing what I can do with thoughts & tech stacks, check out my repositories.<br>🎯 To be one of the finest developers. Solve problems that help millions (if not billions). That way, build a massive product one day.<br>💬 Ask me about Tech, Products, Startups & Problem Solving.<br>🚀 I’m happy to collaborate, chat & meet.<br>📫 Reach out to me: <a href="mailto:iharshka@gmail.com">iharshka@gmail.com</a></p>
+<p align="left">👨🏻‍💻 I'm building projects for fun, testing what I can do with thoughts & tech stacks, check out my repositories.<br>🐧 I love building products and people using them is a thriller for me. 
+<br>🎯 To be one of the finest developers. Solve problems that help millions (if not billions). That way, build a massive product one day.<br>💬 Ask me about Tech, Products, Startups & Problem Solving.<br>🚀 I’m happy to collaborate, chat & meet.<br>📫 Reach out to me: <a href="mailto:iharshka@gmail.com">iharshka@gmail.com</a></p>
 
 ###
 
@@ -31,11 +32,11 @@
   <img width="12" />
  <a href="https://chartjs.org/" target="blank"><img src="https://www.chartjs.org/media/logo-title.svg" height="40" alt="chartjs logo"  /></a>
   <img width="12" />
-  <a href="https://www.typescriptlang.org/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  /></a>
+  <a href="https://www.typescriptlang.org/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /></a>
   <img width="12" />
   <a href="https://www.postgresql.org/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  /></a>
   <img width="12" />
-  <a href="https://www.mongodb.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo"  /></a>
+  <a href="https://www.mongodb.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB logo"  /></a>
   <img width="12" />
   <a href="https://firebase.google.com/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  /></a>
   <img width="12" />
@@ -44,8 +45,11 @@
   <a href="https://nextjs.org/docs" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /></a>
   <img width="12" />
   <a href="https://www.docker.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  /></a>
+  <a href="https://www.aws.amazon.com/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="amazon logo"  /></a>
   <img width="12" />
   <a href="https://heroku.com/" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  /></a>
+  <img width="12" />
+  <a href="https://vercel.com" target="blank"> <img src="https://static-00.iconduck.com/assets.00/vercel-icon-512x449-3422jidz.png" height="40" alt="heroku logo"  /></a>
   <img width="12" />
   <a href="https://developer.chrome.com/docs/devtools" target="blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  /></a>
   <img width="12" />
@@ -89,7 +93,29 @@
 
 ###
 
-<h2 align="left">Find me on:</h2>
+<h2 align="left">Coding Profiles:</h2>
+
+###
+
+  <a href="https://codeforces.com/profile/iharshka" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="52" height="40" alt="codeforces logo"  />
+  </a>
+  <a href="https://codechef.com/users/iharshka" target="_blank">
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" width="52" height="40" alt="codechef logo"  />
+  </a>
+  <a href="https://leetcode.com/iharshka" target="_blank">
+    <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="52" height="40" alt="leetcode logo"  />
+  </a>
+  <a href="https://www.naukri.com/code360/profile/iharshka" target="_blank">
+    <img src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" width="52" height="40" alt="codestudio logo"  />
+  </a>
+  <a href="https://cses.fi/user/201079" target="_blank">
+    <img src="https://cses.fi/logo.png?1" width="52" height="40" alt="cses logo"  />
+  </a>
+
+###
+
+<h2 align="left">Connect with me on:</h2>
 
 ###
 
@@ -102,9 +128,6 @@
   </a>
   <a href="mailto:iharshka@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://codeforces.com/profile/iharshka" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="52" height="40" alt="codeforces logo"  />
   </a>
   <a href="https://www.discord.com/iharshka/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
